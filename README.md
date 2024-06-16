@@ -29,6 +29,7 @@ I enjoy creating software which brings people together to solve problems they ha
 
 - **Email:** johnathan@savvato.com
 - **LinkedIn:** [in/jjames](https://www.linkedin.com/in/jjames)
+- **StackOverflow:** [johnathan-j](https://stackoverflow.com/users/512561/johnathan-j)
 
 ## 📈 GitHub Stats
 
