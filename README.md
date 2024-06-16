@@ -1,6 +1,6 @@
 # Hi there, I'm Johnathan James (Haxwell) 👋🏾
 
-I enjoy creating software which brings people together to solve problems they have in common. I run the Mock Programming Job, a free service developers can use to gain real-world experience as a software developer, focusing on the technologies you want to learn. See our community on Discord at https://discord.com/invite/2hk4aCTuJ8
+I enjoy creating software which brings people together to solve problems they have in common. I run the Mock Programming Job, a free service developers can use to gain real-world experience as a software developer, focusing on the technologies they want to learn. See our community on Discord at https://discord.com/invite/2hk4aCTuJ8
 
 ## 🛠️ My Skills
 
