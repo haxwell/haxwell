@@ -11,8 +11,9 @@ I enjoy creating software which brings people together to solve problems they ha
 ## 🌱 Currently Learning
 
 - Advanced Spring Boot
-- Ionic Capacitor Plugins
 - AWS
+- Sociology: social behavior, society, patterns of social relationships, social interaction, and culture that surrounds everyday life.
+
 
 ## 💼 Projects
 
