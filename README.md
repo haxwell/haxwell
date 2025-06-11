@@ -15,6 +15,7 @@ My software development company is Savvato Software [web](http://www.savvato.com
 - Advanced Spring Boot
 - AWS
 - Programming Bitcoin [book](https://programmingbitcoin.com/programming-bitcoin-book)
+- Rust
 - Sociology: social behavior, society, patterns of social relationships, social interaction, and culture that surrounds everyday life.
 
 
@@ -23,7 +24,7 @@ My software development company is Savvato Software [web](http://www.savvato.com
 - **Convo App** - A social network to have more interesting, effective and fun conversations more often
 -- [Backend](https://github.com/savvato-software/savvato-convo-app-backend) - [Frontend](https://github.com/savvato-software/savvato-convo-app-frontend)
 
-- **Tribe App** - Project implemented by my mentees, a social network to help you find the people with the skills, interests, and qualities you are looking for
+- **Tribe App** - A social network to help you find the people with the skills, interests, and qualities you are looking for
 -- [Backend](https://github.com/savvato-software/tribe-app-backend) - [Frontend](https://github.com/savvato-software/tribe-app-frontend)
 
 - **Work App** - Project implemented by my mentees, to create a platform for entrepreneurs to collaborate with one another, each contributing their skill to a client project
