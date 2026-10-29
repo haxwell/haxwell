@@ -34,8 +34,5 @@ I also founded and led the Denver Tech Interview Meetup, bringing developers tog
 
 [Email](mailto:johnathan@savvato.com) · [LinkedIn](https://www.linkedin.com/in/jjames) · [Stack Overflow](https://stackoverflow.com/users/512561/johnathan-j)
 
-## 📈 GitHub Stats
-
-![Haxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=haxwell&rank_icon=github&show_icons=true)
 
 Thanks for visiting my profile!
