@@ -4,12 +4,6 @@ I enjoy creating software that brings people together to solve problems they hav
 
 My software development company is [Savvato Software](https://github.com/savvato-software). I'm a senior software engineer with 20+ years of experience, working across Java and Spring Boot, TypeScript and Angular, and Python and FastAPI. My recent work includes AI-assisted applications and developer tools.
 
-## Mentoring and community
-
-I founded the Denver Mock Programming Job as a free way for developers to gain real-world experience with the technologies they want to learn. Through real development tasks, code reviews, and collaborative projects, I've helped people practice being part of a software team.
-
-I also founded and led the Denver Tech Interview Meetup, bringing developers together to practice technical interviews, exchange feedback, and learn from one another.
-
 ## Selected work
 
 ### ApplyPilot
@@ -29,6 +23,12 @@ A configurable framework for neural-network experiments. I built reusable prepro
 ### Tribe
 
 A collaboration app that helps people find relevant mentors and collaborators through skills, interests, relationships, and trust signals. I built the full stack with Java, Spring Boot, MySQL, Angular, and Ionic for iOS and Android, and deployed it on AWS.
+
+## Mentoring and community
+
+I founded the Denver Mock Programming Job as a free way for developers to gain real-world experience with the technologies they want to learn. Through real development tasks, code reviews, and collaborative projects, I've helped people practice being part of a software team.
+
+I also founded and led the Denver Tech Interview Meetup, bringing developers together to practice technical interviews, exchange feedback, and learn from one another.
 
 ## Get in touch
 
