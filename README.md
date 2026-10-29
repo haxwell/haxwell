@@ -1,40 +1,38 @@
 # Hi there, I'm Johnathan James (Haxwell) 👋🏾
 
-I enjoy creating software which brings people together to solve problems they have in common. I run the Mock Programming Job, a free service developers can use to gain real-world experience as a software developer, focusing on the technologies they want to learn. See our community on Discord at https://discord.com/invite/2hk4aCTuJ8
+I enjoy creating software that brings people together to solve problems they have in common. That includes helping people find collaborators, share what they know, and gain experience they can use to help others.
 
-My software development company is Savvato Software [web](http://www.savvato.com) [github](https://www.github.com/savvato-software).
+My software development company is [Savvato Software](https://github.com/savvato-software). I'm a senior software engineer with 20+ years of experience, working across Java and Spring Boot, TypeScript and Angular, and Python and FastAPI. My recent work includes AI-assisted applications and developer tools.
 
-## 🛠️ My Skills
+## Mentoring and community
 
-- **Programming Languages:** Java, JavaScript, TypeScript, Python, Bash
-- **Frameworks:** Spring Boot, Angular, Ionic, React
-- **Tools & Platforms:** AWS, Node.js, Express.js, MongoDB, MySQL, Docker, GitHub
+I founded the Denver Mock Programming Job as a free way for developers to gain real-world experience with the technologies they want to learn. Through real development tasks, code reviews, and collaborative projects, I've helped people practice being part of a software team.
 
-## 🌱 Currently Learning
+I also founded and led the Denver Tech Interview Meetup, bringing developers together to practice technical interviews, exchange feedback, and learn from one another.
 
-- Advanced Spring Boot
-- AWS
-- Programming Bitcoin [book](https://programmingbitcoin.com/programming-bitcoin-book)
-- Rust
-- Sociology: social behavior, society, patterns of social relationships, social interaction, and culture that surrounds everyday life.
+## Selected work
 
+### ApplyPilot
 
-## 💼 Projects
+An AI-assisted job-search platform that helps people find opportunities and prepare applications based on their actual experience, with human review and approval.
 
-- **Convo App** - A social network to have more interesting, effective and fun conversations more often
--- [Backend](https://github.com/savvato-software/savvato-convo-app-backend) - [Frontend](https://github.com/savvato-software/savvato-convo-app-frontend)
+I built the platform with Python, FastAPI, Angular, Ionic, and AWS. Matching and resume-tailoring workflows preserve the connection to documented candidate experience. Human-reviewed evaluation and regression tests help check the AI's decisions and generated documents.
 
-- **Tribe App** - A social network to help you find the people with the skills, interests, and qualities you are looking for
--- [Backend](https://github.com/savvato-software/tribe-app-backend) - [Frontend](https://github.com/savvato-software/tribe-app-frontend)
+### Savv AI
 
-- **Work App** - Project implemented by my mentees, to create a platform for entrepreneurs to collaborate with one another, each contributing their skill to a client project
--- [Backend](https://github.com/savvato-software/savvato-work-app-backend-api) - [Frontend](https://github.com/savvato-software/savvato-work-app-frontend-app)
+A Python and Git command-line workflow I built to coordinate AI-assisted engineering across multiple repositories. It connects requirements, repository context, generated changes, validation, and Git integration so the work stays reviewable and traceable.
 
-## 📫 How to reach me
+### [Maudlin](https://github.com/savvato-software/savvato-maudlin)
 
-- **Email:** johnathan@savvato.com
-- **LinkedIn:** [in/jjames](https://www.linkedin.com/in/jjames)
-- **StackOverflow:** [johnathan-j](https://stackoverflow.com/users/512561/johnathan-j)
+A configurable framework for neural-network experiments. I built reusable preprocessing and training workflows with TensorFlow and Keras, with Optuna optimization and model diagnostics that include SHAP explainability.
+
+### Tribe
+
+A collaboration app that helps people find relevant mentors and collaborators through skills, interests, relationships, and trust signals. I built the full stack with Java, Spring Boot, MySQL, Angular, and Ionic for iOS and Android, and deployed it on AWS.
+
+## Get in touch
+
+[Email](mailto:johnathan@savvato.com) · [LinkedIn](https://www.linkedin.com/in/jjames) · [Stack Overflow](https://stackoverflow.com/users/512561/johnathan-j)
 
 ## 📈 GitHub Stats
 
